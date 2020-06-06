@@ -1,0 +1,10 @@
+queue:
+  name: my-queue
+server:
+  port: 8888
+spring:
+  rabbitmq:
+    host: 192.168.1.40
+    por: 5672
+    username: guest
+    password: guest
